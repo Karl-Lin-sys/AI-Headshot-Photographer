@@ -1,0 +1,6 @@
+{
+  "name": "AI Headshot Photographer",
+  "description": "Upload a selfie and use text prompts or styles to generate professional AI headshots with gemini-3.1-flash-image.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
